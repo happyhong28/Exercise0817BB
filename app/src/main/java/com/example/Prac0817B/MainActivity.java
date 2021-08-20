@@ -1,4 +1,4 @@
-package com.example.exercise0817bb;
+package com.example.Prac0817B;
 
 import androidx.appcompat.app.AppCompatActivity;
 
